@@ -9,9 +9,11 @@ The controller measures 4x3x1.5cm, including 500mAh LiPo battery. The unit has c
 
 The below controller travelled around South Africa as part of a promotional installation. 
 
-![image](images/top.jpeg)
+![image](images/top.jpeg | width=100)
+![image](images/oblique.jpeg | width=100)
+![image](images/side.jpeg | width=100)
 
 ## Schematic
 
-![pdf](schematic.pdf)
+![image](images/schematic.png)
 
