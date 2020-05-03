@@ -10,8 +10,16 @@ The controller measures 4x3x1.5cm, including 500mAh LiPo battery. The unit has c
 The below controller travelled around South Africa as part of a promotional installation. 
 
 ![image](images/top.jpeg)
+![image](images/oblique.jpeg)
+![image](images/side.jpeg)
+
 
 ## Schematic
 
 ![pdf](schematic.pdf)
 
+<object data="https://github.com/nicshackle/OmoController/blob/master/schematic.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/nicshackle/OmoController/blob/master/schematic.pdf">
+        <p>This browser does not support PDFs</p>
+    </embed>
+</object>
