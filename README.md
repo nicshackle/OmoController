@@ -16,3 +16,16 @@ The below controller travelled around South Africa as part of a promotional inst
 ## Schematic
 
 ![image](images/schematic.png)
+
+## Parts
+
+|Part|Name|
+|:---|:---|
+|Microcontroller|Atmel 328P, 3.3V, 8MHz|
+|Accelerometer|NXP MMA8652FC|
+|Charge controller|MAX1555|
+
+## Programming
+
+ - Use 3.3v ICSP programmer
+ - If using a fresh chip, burn the Arduino 3.3V 8MHz bootloader to set fuse bits
