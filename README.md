@@ -16,4 +16,3 @@ The below controller travelled around South Africa as part of a promotional inst
 ## Schematic
 
 ![image](images/schematic.png)
-
