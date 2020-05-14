@@ -24,7 +24,9 @@ The below controller travelled around South Africa as part of a promotional inst
 |Microcontroller|Atmel 328P, 3.3V, 8MHz|
 |Accelerometer|NXP MMA8652FC|
 |Charge controller|MAX1555|
-|LDO Voltage Regulator|TI TPS73733|
+|LDO Voltage Regulator|TI TPS73733†|
+
+†This part has a dropout of 130mV, i.e. it will drop out at 3.43V. This voltage is very near the total depletion point of LiPo batteries, which means the device is able to make use of most of the battery's charge. 
 
 ## Programming
 
