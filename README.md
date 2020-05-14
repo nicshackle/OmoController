@@ -24,6 +24,7 @@ The below controller travelled around South Africa as part of a promotional inst
 |Microcontroller|Atmel 328P, 3.3V, 8MHz|
 |Accelerometer|NXP MMA8652FC|
 |Charge controller|MAX1555|
+|LDO Voltage Regulator|TI TPS73733|
 
 ## Programming
 
